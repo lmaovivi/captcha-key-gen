@@ -1,0 +1,6 @@
+{
+    "threads": 5,
+    "amount": 5,
+    "proxies": false,
+    "webhook_url": "YOUR_DISCORD_WEBHOOK_URL"
+}
